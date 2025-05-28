@@ -1,0 +1,125 @@
+{
+  "Delhi": {
+    "description": "The capital city of India, rich with history and modern culture.",
+    "places": [
+      "Red Fort",
+      "India Gate",
+      "Qutub Minar",
+      "Humayun's Tomb",
+      "Lotus Temple",
+      "Akshardham Temple"
+    ],
+    "foods": [
+      "Chole Bhature",
+      "Paratha",
+      "Butter Chicken",
+      "Street Chaat",
+      "Momos"
+    ],
+    "restaurants": [
+      "Karim's",
+      "Indian Accent",
+      "Paranthe Wali Gali",
+      "Bukhara",
+      "SodaBottleOpenerWala"
+    ]
+  },
+  "Mumbai": {
+    "description": "The city of dreams, India's financial hub and Bollywood capital.",
+    "places": [
+      "Gateway of India",
+      "Marine Drive",
+      "Elephanta Caves",
+      "Chhatrapati Shivaji Maharaj Terminus",
+      "Juhu Beach",
+      "Haji Ali Dargah"
+    ],
+    "foods": [
+      "Vada Pav",
+      "Pav Bhaji",
+      "Bombay Sandwich",
+      "Bhel Puri",
+      "Pani Puri"
+    ],
+    "restaurants": [
+      "Leopold Cafe",
+      "The Bombay Canteen",
+      "Trishna",
+      "Britannia & Co.",
+      "Wasabi by Morimoto"
+    ]
+  },
+  "Jaipur": {
+    "description": "The Pink City of India, known for its forts and royal heritage.",
+    "places": [
+      "Hawa Mahal",
+      "Amber Fort",
+      "City Palace",
+      "Jantar Mantar",
+      "Nahargarh Fort"
+    ],
+    "foods": [
+      "Dal Baati Churma",
+      "Ghevar",
+      "Laal Maas",
+      "Kachori",
+      "Rabri"
+    ],
+    "restaurants": [
+      "1135 AD",
+      "Chokhi Dhani",
+      "Laxmi Mishthan Bhandar (LMB)",
+      "Spice Court",
+      "Handi"
+    ]
+  },
+  "Kolkata": {
+    "description": "The cultural capital of India, known for its literature, arts, and colonial architecture.",
+    "places": [
+      "Victoria Memorial",
+      "Howrah Bridge",
+      "Dakshineswar Temple",
+      "Indian Museum",
+      "Mother House",
+      "Science City"
+    ],
+    "foods": [
+      "Fish Curry",
+      "Macher Jhol",
+      "Kathi Roll",
+      "Rasgulla",
+      "Sandesh"
+    ],
+    "restaurants": [
+      "6 Ballygunge Place",
+      "Oh! Calcutta",
+      "Peter Cat",
+      "Bhojohori Manna",
+      "Arsalan"
+    ]
+  },
+  "Bangalore": {
+    "description": "India’s Silicon Valley, known for its tech industry and pleasant climate.",
+    "places": [
+      "Lalbagh Botanical Garden",
+      "Bangalore Palace",
+      "Cubbon Park",
+      "ISKCON Temple",
+      "Tipu Sultan's Summer Palace"
+    ],
+    "foods": [
+      "Masala Dosa",
+      "Bisi Bele Bath",
+      "Mysore Pak",
+      "Idli Vada",
+      "Ragi Mudde"
+    ],
+    "restaurants": [
+      "MTR",
+      "Vidyaranya",
+      "Nagarjuna",
+      "Toit",
+      "CTR"
+    ]
+  }
+}
